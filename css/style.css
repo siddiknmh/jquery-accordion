@@ -1,0 +1,22 @@
+*{
+	margin:0;
+	padding:0;
+}
+.acc_warap{
+	width:600px;
+	margin:0 auto;
+}
+.single_acc{
+	margin-bottom:20px;
+	background:#F0F4F8;
+	border-radius: 5px;
+}
+.acc_title{
+	background:#BCBCBC;
+	padding:10px 20px;
+	border-radius: 5px 5px 0 0;
+}
+.acc_content{
+	padding:20px;
+	display:none;
+}
